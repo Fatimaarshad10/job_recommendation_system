@@ -15,6 +15,7 @@ Job seekers often struggle to find opportunities that fit their needs among nume
 <h3>Installation</h3>
 <h4>Clone the Repository:</h4>
 git clone https://github.com/your-username/job-recommendation-system.git
+<br>
 cd job-recommendation-system
 
 <h4>Install Dependencies:</h4>
