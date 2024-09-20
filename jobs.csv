@@ -1,0 +1,119 @@
+"id","title","latitude","longitude","city","state","zipCode","jobType_id","jobLocation_id","salary_min","salary_max","summary","jobRequirements","radius","radiusUnit","user_id","skill_id","deactivate_at","deleted_at","created_at","updated_at"
+bfa7bc92-b468-4080-bb15-2e87b7598c60,MERN Stack,37.7749,-122.4194,islamabad,CA,"94103",a0390368-ae9c-4c26-862a-8c5ef03aaff3,"2c471f60-2f48-458a-92b2-36622fa6dad7",1000,2000,Looking for a skilled software engineer to join our team.,"5+ years of experience in software development.",50.0,miles,"477db199-d161-4ff8-8028-6b28ac7db579",{f4b66805-90fc-40d5-a44b-40d84b26a32b},,,2024-09-15 14:22:48.718 -0700,2024-09-15 14:22:48.718 -0700
+cf5380a9-fdff-4788-905b-3b8f23c4149c,MERN Stack,37.7749,-122.4194,islamabad,CA,"94103",a0390368-ae9c-4c26-862a-8c5ef03aaff3,"2c471f60-2f48-458a-92b2-36622fa6dad7",1000,2000,Looking for a skilled software engineer to join our team.,"5+ years of experience in software development.",50.0,miles,"477db199-d161-4ff8-8028-6b28ac7db579",{f4b66805-90fc-40d5-a44b-40d84b26a32b},,,2024-09-15 15:43:53.890 -0700,2024-09-15 15:43:53.890 -0700
+"58f86a3f-6edf-455b-a04b-baca4b25753f",React Developer,57.149606,-2.096916,faisalabad,,AB10 1AB,a0390368-ae9c-4c26-862a-8c5ef03aaff3,"2c471f60-2f48-458a-92b2-36622fa6dad7",50000,232000,Job Seeker Wiill Be Success,Job Seeker Wiill Be Success,1.0,kilometers,ec23d0dd-f0da-4d6a-8620-a5c0713e2232,"{f4b66805-90fc-40d5-a44b-40d84b26a32b,8e6e7223-846c-4bfe-8a6c-4c825d501354,39ff8eed-e3db-4855-858b-066b552ad70b}",,,2024-09-16 14:54:24.666 -0700,2024-09-16 14:54:24.666 -0700
+"2be6aae2-7616-4c8f-9ce0-3a2fc7d0b516",full stack,57.14959,-2.096923,lahore,S99999999,AB10 1AF,a0390368-ae9c-4c26-862a-8c5ef03aaff3,"2c471f60-2f48-458a-92b2-36622fa6dad7",16000,71000,new summar,new reuqirments,25.0,miles,ee4ebfda-1a55-424a-8fcf-222725ffadba,{5ad45909-4370-48e4-835d-d1fd4016e7cd},,,2024-09-19 04:40:01.444 -0700,2024-09-19 04:40:01.444 -0700
+"66ec5ac2-e378-46c6-b21c-815918aa4a96",full stack,51.487122,0.003284,lahore,E99999999,SE10 0AA,"9f7c9074-9827-43a8-b4fe-fad57ab82008","2c471f60-2f48-458a-92b2-36622fa6dad7",26000,70000,"
+
+The job of a Laravel developer is to develop and maintain web applications using the Laravel framework. They are responsible for creating efficient, scalable, and secure code, fixing bugs, and implementing new features. The key skills required for this job include proficiency in Laravel, PHP, and other web technologies such as HTML, CSS, and JavaScript. Additionally, Laravel developers should have a strong understanding of database management and ability to work with version control systems. Having experience with front-end frameworks and knowledge of software development methodologies are also desired qualities for a Laravel developer. Strong communication and problem-solving skills are important for this role as they collaborate with clients and team members to deliver high-quality projects. A Bachelor's degree in computer science or a related field is typically required for this job. Laravel developers work in a fast-paced and constantly evolving industry, so a passion for learning and staying up-to-date with the latest technologies is essential. ","
+
+Position: Laravel Developer
+
+Location: Islamabad
+
+Summary:
+We are seeking a experienced Laravel developer to join our dynamic team. The ideal candidate will have prior experience with developing web applications using Laravel framework and possess good problem-solving skills. If you are passionate about creating high-quality, innovative solutions, we want to hear from you!
+
+Responsibilities:
+• Write clean, efficient, and maintainable code using Laravel framework
+• Collaborate with team members to design and develop new features
+• Troubleshoot and debug existing applications
+• Optimize web applications for maximum speed and scalability
+• Design and implement data storage solutions
+• Conduct code reviews and participate in team meetings
+• Stay up to date with emerging web technologies and best practices
+
+Requirements:
+• Bachelor's degree in Computer Science or related field
+• Proven experience as a Laravel developer or similar role
+• Strong knowledge of PHP, HTML, CSS, and JavaScript
+• Familiarity with front-end frameworks (such as Vue.js or React)
+• Experience with MySQL or other database management systems
+• Understanding of RESTful APIs and MVC design pattern
+• Proficient in Git for version control
+• Excellent problem-solving and analytical skills
+• Ability to work independently and in a team environment
+• Good communication skills
+
+Nice to have:
+• Experience with Agile methodologies
+• Knowledge of AWS or other cloud computing services
+• Experience with testing frameworks (such as PHPUnit)
+• Understanding of SEO principles
+• Familiarity with mobile app development
+
+Benefits:
+• Competitive salary
+• Health, dental, and vision insurance
+• Paid time off and holidays
+• Opportunities for professional development and growth
+• Relaxed and collaborative work environment
+
+If you think you meet the above requirements and are ready to join a dynamic and forward-thinking team, please submit your resume and portfolio for consideration. ",29.0,miles,d7a01d14-e031-47a1-bb6a-c3b231a20b87,"{39ff8eed-e3db-4855-858b-066b552ad70b,5ad45909-4370-48e4-835d-d1fd4016e7cd}",,,2024-09-18 11:06:56.933 -0700,2024-09-18 11:06:56.933 -0700
+"72e8e950-f53e-46b8-84e1-7c9eb9fb32d4",react developer,51.500896,-0.094625,karachi,E99999999,SE1 1QN,"9f7c9074-9827-43a8-b4fe-fad57ab82008",c19c6a29-58d2-4cfe-bee6-76c62d2d09aa,1000,70000,new summary,new requirement ,15.0,miles,ee4ebfda-1a55-424a-8fcf-222725ffadba,"{5ad45909-4370-48e4-835d-d1fd4016e7cd,ab1cd068-2ce6-4429-b2a1-43df498f917c,f4b66805-90fc-40d5-a44b-40d84b26a32b}",,,2024-09-17 04:20:51.242 -0700,2024-09-17 04:20:51.242 -0700
+"84b99491-8e6f-400a-b61e-7595d5372765",react developer,57.149051,-2.097004,faisalabad,S99999999,AB10 1AG,"9f7c9074-9827-43a8-b4fe-fad57ab82008","2c471f60-2f48-458a-92b2-36622fa6dad7",95000,154000,"
+
+DevOps engineers are professionals who streamline the IT operations and software delivery processes. They work closely with software developers, system administrators, and other IT professionals to create an efficient and automated workflow for building, testing, deploying, and managing software applications.
+
+DevOps engineers use various tools and technologies such as cloud computing, configuration management, and continuous integration and delivery to automate and optimize the software development lifecycle. They also focus on improving collaboration and communication between development and operations teams to ensure faster and more reliable software delivery.
+
+Key responsibilities of a DevOps engineer may include:
+
+1. Designing, managing, and maintaining the infrastructure and tools for software development and delivery.
+
+2. Building automated deployment pipelines to ensure efficient and reliable software release cycles.
+
+3. Implementing and managing continuous integration and delivery processes to enable developers to frequently and consistently release code.
+
+4. Collaborating with developers and operations teams to identify and resolve issues in the software development process.
+
+5. Monitoring system performance and identifying opportunities for optimization and improvement.
+
+6. Managing the security, backups, and disaster recovery processes for the software development environment.
+
+7. Implementing and managing containerization and orchestration technologies like Docker and Kubernetes.
+
+8. Automating manual processes and tasks to increase efficiency and reduce human error.
+
+9. Working with cross-functional teams to implement and maintain a culture of continuous improvement and automation.
+
+Skills and qualifications of a DevOps engineer may include:
+
+1. Strong understanding of software development principles, processes, and methodologies.
+
+2. Experience working with cloud computing platforms like AWS, Azure, or Google Cloud.
+
+3. Proficiency in at least one programming language, such as Python, Java, or Ruby.
+
+4. Knowledge of configuration management tools like Ansible, Chef, or Puppet.
+
+5. Experience with continuous integration and delivery tools like Jenkins, Bamboo, or CircleCI.
+
+6. Familiarity with containerization and orchestration technologies like Docker and Kubernetes.
+
+7. Understanding of networking, security, and infrastructure automation.
+
+8. Excellent collaboration and communication skills.
+
+9. Experience working in Agile or DevOps environments.
+
+10. Bachelor's degree in Computer Science, Information Technology, or a related field.","eria 「 ビザ（クリスタルウィング）
+
+Small Desceria Viza (Crystal Wing)
+
+Small Desceria Viza, also known as Crystal Wing, is the backend engineer of the Desceria project. She is responsible for building and maintaining the technical infrastructure of the game, ensuring its stability, scalability, and overall performance.
+
+Viza has a strong background in computer science, with a focus on backend development and server management. She is a master at coding and is always on the lookout for new technologies and techniques to improve the game's backend.
+
+Her attention to detail and problem-solving skills make her an invaluable member of the Desceria team. She works closely with the frontend engineers and game designers to ensure that the game runs smoothly and meets all technical requirements.
+
+In addition to her technical skills, Viza is also a team player and enjoys collaborating with her colleagues. She is always willing to lend a helping hand and share her expertise with others.
+
+When she's not coding, Viza enjoys playing video games, reading sci-fi novels, and spending time with her pet cat, Pixel. She is also a fan of cosplay and often attends conventions dressed as her favorite characters.
+
+Thanks to Viza's expertise and dedication, Desceria has a solid and reliable backend, providing players with a seamless gaming experience.",27.0,miles,ec23d0dd-f0da-4d6a-8620-a5c0713e2232,"{5ad45909-4370-48e4-835d-d1fd4016e7cd,8e6e7223-846c-4bfe-8a6c-4c825d501354,ab1cd068-2ce6-4429-b2a1-43df498f917c,61c9e956-be6e-4a87-bb78-0a27965d7b97}",2024-09-20 07:24:50.124 -0700,,2024-09-16 14:50:13.794 -0700,2024-09-16 14:50:13.794 -0700
+e3f84b04-eb34-4754-873b-0db3dfb5db74,full stack,52.469143,-1.873713,"Birmingham, Hall Green",E99999999,B10 0AD,a0390368-ae9c-4c26-862a-8c5ef03aaff3,"2c471f60-2f48-458a-92b2-36622fa6dad7",1000,82000,""", interests: ""Artificial intelligence, machine learning"", contact: ""knithish@gmail.com"")
+@stop
+@section(""profileIMG"", ""knithish.jpg"")
+@extends('layout.user')
+",AI Developer,41.0,miles,ec23d0dd-f0da-4d6a-8620-a5c0713e2232,{61c9e956-be6e-4a87-bb78-0a27965d7b97},,,2024-09-20 07:30:45.369 -0700,2024-09-20 07:30:45.369 -0700
